@@ -1,0 +1,518 @@
+2023-03-28 15:38:06 INFO  UserController:38 - All users retrieved from the database.
+2023-03-28 15:38:57 INFO  UserController:38 - All users retrieved from the database.
+2023-03-28 15:45:02 INFO  UserController:38 - All users retrieved from the database.
+2023-03-28 17:00:01 INFO  UserController:38 - All users retrieved from the database.
+2023-03-28 17:06:41 WARN  UserController:35 - No users found in the Data Base
+2023-03-28 17:06:41 ERROR UserController:44 - Error getting all user: 404 NOT_FOUND "Users not found"
+2023-03-28 17:13:23 WARN  UserController:35 - No users found in the Data Base
+2023-03-28 17:13:23 ERROR UserController:44 - Error getting all user: 404 NOT_FOUND "Users not found"
+2023-03-28 17:14:53 WARN  UserController:35 - No users found in the Data Base
+2023-03-28 17:14:53 ERROR UserController:44 - Error getting all user: 404 NOT_FOUND "Users not found"
+2023-03-28 17:17:37 WARN  UserController:35 - No users found in the Data Base
+2023-03-28 17:17:37 ERROR UserController:44 - Error getting all user: 404 NOT_FOUND "Users not found"
+2023-03-28 17:19:10 WARN  UserController:35 - No users found in the Data Base
+2023-03-28 17:19:10 ERROR UserController:44 - Error getting all user: 404 NOT_FOUND "Users not found"
+2023-03-28 17:19:24 WARN  UserController:35 - No users found in the Data Base
+2023-03-28 17:19:24 ERROR UserController:44 - Error getting all user: 404 NOT_FOUND "Users not found"
+2023-03-28 17:19:24 INFO  UserController:38 - All users retrieved from the database.
+2023-03-28 17:24:06 WARN  UserController:35 - No users found in the Data Base
+2023-03-28 17:24:06 ERROR UserController:44 - Error getting all user: 404 NOT_FOUND "Users not found"
+2023-03-28 17:24:06 INFO  UserController:38 - All users retrieved from the database.
+2023-03-29 13:58:12 INFO  UserController:57 - All users retrieved from the database.
+2023-03-29 14:03:24 WARN  UserController:55 - No users found in Data Base
+2023-03-29 14:03:24 ERROR UserController:64 - Error getting information from data base: 404 NOT_FOUND "Users not found"
+2023-03-29 14:03:34 WARN  UserController:35 - No users found in the Data Base
+2023-03-29 14:03:34 ERROR UserController:44 - Error getting all user: 404 NOT_FOUND "Users not found"
+2023-03-29 14:03:34 INFO  UserController:58 - All users retrieved from the database.
+2023-03-29 14:03:34 INFO  UserController:38 - All users retrieved from the database.
+2023-03-29 14:03:34 WARN  UserController:55 - No users found in Data Base
+2023-03-29 14:03:34 ERROR UserController:64 - Error getting information from data base: 404 NOT_FOUND "Users not found"
+2023-03-29 14:04:02 WARN  UserController:35 - No users found in the Data Base
+2023-03-29 14:04:02 ERROR UserController:44 - Error getting all user: 404 NOT_FOUND "Users not found"
+2023-03-29 14:04:02 INFO  UserController:58 - All users retrieved from the database.
+2023-03-29 14:04:02 INFO  UserController:38 - All users retrieved from the database.
+2023-03-29 14:04:02 WARN  UserController:55 - No users found in Data Base
+2023-03-29 14:04:02 ERROR UserController:64 - Error getting information from data base: 404 NOT_FOUND "Users not found"
+2023-03-29 14:18:05 INFO  UserController:77 - Number of users in the database: 5
+2023-03-29 14:22:04 WARN  UserController:75 - No users found in the Data Base
+2023-03-29 14:22:04 ERROR UserController:81 - Error getting information by user count: 404 NOT_FOUND "Users not found"
+2023-03-29 14:22:23 INFO  UserController:78 - Number of users in the database: 1
+2023-03-29 14:22:44 WARN  UserController:75 - No users found in the Data Base
+2023-03-29 14:22:44 ERROR UserController:81 - Error getting information by user count: 404 NOT_FOUND "Users not found"
+2023-03-29 14:23:01 WARN  UserController:35 - No users found in the Data Base
+2023-03-29 14:23:01 ERROR UserController:44 - Error getting all user: 404 NOT_FOUND "Users not found"
+2023-03-29 14:23:01 INFO  UserController:58 - All users retrieved from the database.
+2023-03-29 14:23:01 INFO  UserController:38 - All users retrieved from the database.
+2023-03-29 14:23:01 WARN  UserController:75 - No users found in the Data Base
+2023-03-29 14:23:01 ERROR UserController:81 - Error getting information by user count: 404 NOT_FOUND "Users not found"
+2023-03-29 14:23:01 WARN  UserController:55 - No users found in Data Base
+2023-03-29 14:23:01 ERROR UserController:64 - Error getting information from data base: 404 NOT_FOUND "Users not found"
+2023-03-29 14:23:01 INFO  UserController:78 - Number of users in the database: 5
+2023-03-29 15:23:45 INFO  UserController:94 - Getting user with id: 1
+2023-03-29 15:24:03 INFO  UserController:94 - Getting user with id: 1
+2023-03-29 15:28:19 WARN  UserController:91 - User with this id: 1 not found
+2023-03-29 15:28:19 ERROR UserController:97 - Error getting information from id: 404 NOT_FOUND "User with this id: 1 not found"
+2023-03-29 15:29:21 WARN  UserController:91 - User with this id: 1 not found
+2023-03-29 15:29:21 ERROR UserController:97 - Error getting information from id: 404 NOT_FOUND "User with this id: 1 not found"
+2023-03-29 15:29:21 WARN  UserController:35 - No users found in the Data Base
+2023-03-29 15:29:21 ERROR UserController:44 - Error getting all user: 404 NOT_FOUND "Users not found"
+2023-03-29 15:29:21 INFO  UserController:58 - All users retrieved from the database.
+2023-03-29 15:29:21 INFO  UserController:38 - All users retrieved from the database.
+2023-03-29 15:29:21 WARN  UserController:75 - No users found in the Data Base
+2023-03-29 15:29:21 ERROR UserController:81 - Error getting information by user count: 404 NOT_FOUND "Users not found"
+2023-03-29 15:29:21 WARN  UserController:55 - No users found in Data Base
+2023-03-29 15:29:21 ERROR UserController:64 - Error getting information from data base: 404 NOT_FOUND "Users not found"
+2023-03-29 15:29:21 INFO  UserController:78 - Number of users in the database: 5
+2023-03-29 15:29:21 INFO  UserController:94 - Getting user with id: 1
+2023-03-29 15:34:29 INFO  UserController:110 - Getting user with age: 25
+2023-04-01 12:46:04 WARN  UserController:110 - User with name: Alice not found in data base
+2023-04-01 12:46:04 ERROR UserController:136 - Error getting information by user filter: 404 NOT_FOUND "User with name: Alice not found in data base"
+2023-04-01 12:50:09 INFO  UserController:129 - Getting user by filter: 
+Name: John age: 25 email: john@example.com phone: 123456789
+2023-04-01 13:26:26 INFO  UserController:129 - Getting user by filter: 
+Name: Mike age: 25 email: mike@gmail.com phone: +0978765432
+2023-04-01 13:28:38 INFO  UserController:129 - Getting user by filter: 
+Name: Mike age: 25 email: mike@gmail.com phone: +0978765432
+2023-04-01 13:29:43 INFO  UserController:129 - Getting user by filter: 
+Name: Mike age: 25 email: mike@gmail.com phone: +0978765432
+2023-04-03 11:10:24 WARN  UserController:118 - Age entered incorrectly: 25
+2023-04-03 11:10:24 ERROR UserController:137 - Error getting information by user filter: 400 BAD_REQUEST "Age entered incorrectly: 25"
+2023-04-03 11:11:14 ERROR UserController:137 - Error getting information by user filter: Cannot invoke "java.lang.Integer.toString()" because "age" is null
+2023-04-03 11:12:28 WARN  UserController:118 - Age entered incorrectly: 25
+2023-04-03 11:12:28 ERROR UserController:137 - Error getting information by user filter: 400 BAD_REQUEST "Age entered incorrectly: 25"
+2023-04-03 11:14:28 INFO  UserController:130 - Getting user by filter: 
+Name: Mike age: 25 email: mike@gmail.com phone: +0978765432
+2023-04-03 11:15:24 WARN  UserController:118 - Age entered incorrectly: 0
+2023-04-03 11:15:24 ERROR UserController:137 - Error getting information by user filter: 400 BAD_REQUEST "Age entered incorrectly: 0"
+2023-04-03 11:16:18 ERROR UserController:137 - Error getting information by user filter: Cannot invoke "java.lang.Integer.toString()" because "age" is null
+2023-04-03 11:39:39 ERROR UserController:137 - Error getting information by user filter: Cannot invoke "java.lang.Integer.toString()" because "age" is null
+2023-04-03 11:41:52 INFO  UserController:129 - Getting user by filter: 
+Name: Mike age: 25 email: mike@gmail.com phone: +0978765432
+2023-04-03 11:46:50 INFO  UserController:129 - Getting user by filter: 
+Name: John age: null email: null phone: null
+2023-04-03 11:47:42 INFO  UserController:129 - Getting user by filter: 
+Name: John age: null email: null phone: null
+2023-04-03 11:49:35 INFO  UserController:129 - Getting user by filter: 
+Name: John age: null email: null phone: null
+2023-04-03 12:09:30 INFO  UserController:129 - Getting user by filter: 
+Name: Denis age: 25 email: null phone: null
+2023-04-03 12:11:04 INFO  UserController:129 - Getting user by filter: 
+Name: John age: 25 email: null phone: null
+2023-04-03 12:22:20 INFO  UserController:129 - Getting user by filter: 
+Name: John age: 25 email: null phone: null
+2023-04-03 12:23:31 WARN  UserController:109 - Invalid name characters: J0hn
+2023-04-03 12:25:07 WARN  UserController:110 - Invalid name characters: J0hn
+2023-04-03 12:25:07 ERROR UserController:137 - Error getting information by filter: 400 BAD_REQUEST "Invalid name characters: J0hn"
+2023-04-03 12:27:42 WARN  UserController:118 - Age entered incorrectly: 150
+2023-04-03 12:27:42 ERROR UserController:137 - Error getting information by filter: 400 BAD_REQUEST "Age entered incorrectly: 150"
+2023-04-03 12:29:18 WARN  UserController:122 - Invalid email characters: john@!gmail.com
+2023-04-03 12:29:18 ERROR UserController:137 - Error getting information by filter: 400 BAD_REQUEST "Invalid email characters: john@!gmail.com"
+2023-04-03 12:30:14 INFO  UserController:130 - Getting user by filter: 
+Name: John age: 25 email: john@gmail.com phone: +80977035432
+2023-04-03 12:30:33 INFO  UserController:130 - Getting user by filter: 
+Name: John age: 25 email: john@gmail.com phone: +30977035432
+2023-04-03 12:33:14 WARN  UserController:126 - Invalid phone number characters: 380977035432
+2023-04-03 12:33:14 ERROR UserController:137 - Error getting information by filter: 400 BAD_REQUEST "Invalid phone number characters: 380977035432"
+2023-04-03 12:51:30 INFO  UserController:175 - New user created with id: 1
+2023-04-03 12:52:03 INFO  UserController:175 - New user created with id: 1
+2023-04-03 12:52:28 INFO  UserController:175 - New user created with id: 1
+2023-04-03 12:55:42 INFO  UserController:175 - New user created with id: 1
+2023-04-03 13:03:04 INFO  UserController:175 - New user created with id: 1
+2023-04-03 13:05:03 WARN  UserController:91 - User with this id: 1 not found
+2023-04-03 13:05:03 ERROR UserController:97 - Error getting information from id: 404 NOT_FOUND "User with this id: 1 not found"
+2023-04-03 13:05:03 WARN  UserController:118 - Age entered incorrectly: 150
+2023-04-03 13:05:03 ERROR UserController:137 - Error getting information by filter: 400 BAD_REQUEST "Age entered incorrectly: 150"
+2023-04-03 13:05:03 WARN  UserController:110 - Invalid name characters: J0hn
+2023-04-03 13:05:03 ERROR UserController:137 - Error getting information by filter: 400 BAD_REQUEST "Invalid name characters: J0hn"
+2023-04-03 13:05:03 INFO  UserController:175 - New user created with id: 1
+2023-04-03 13:05:03 WARN  UserController:75 - No users found in the Data Base
+2023-04-03 13:05:03 ERROR UserController:81 - Error getting information by user count: 404 NOT_FOUND "Users not found"
+2023-04-03 13:05:03 INFO  UserController:58 - All users retrieved from the database.
+2023-04-03 13:05:03 WARN  UserController:55 - No users found in Data Base
+2023-04-03 13:05:03 ERROR UserController:64 - Error getting information from data base: 404 NOT_FOUND "Users not found"
+2023-04-03 13:05:03 INFO  UserController:38 - All users retrieved from the database.
+2023-04-03 13:05:03 WARN  UserController:35 - No users found in the Data Base
+2023-04-03 13:05:03 ERROR UserController:44 - Error getting all user: 404 NOT_FOUND "Users not found"
+2023-04-03 13:05:03 INFO  UserController:78 - Number of users in the database: 5
+2023-04-03 13:05:03 INFO  UserController:94 - Getting user with id: 1
+2023-04-03 13:05:03 INFO  UserController:130 - Getting user by filter: 
+Name: John age: 25 email: null phone: null
+2023-04-03 13:05:03 WARN  UserController:122 - Invalid email characters: john@!gmail.com
+2023-04-03 13:05:03 ERROR UserController:137 - Error getting information by filter: 400 BAD_REQUEST "Invalid email characters: john@!gmail.com"
+2023-04-03 13:05:03 WARN  UserController:126 - Invalid phone number characters: 380977035432
+2023-04-03 13:05:03 ERROR UserController:137 - Error getting information by filter: 400 BAD_REQUEST "Invalid phone number characters: 380977035432"
+2023-04-03 13:09:55 WARN  UserController:147 - Invalid name characters: John123
+2023-04-03 13:09:55 ERROR UserController:178 - Error adding information: 400 BAD_REQUEST "Invalid name characters: John123"
+2023-04-03 13:11:17 WARN  UserController:91 - User with this id: 1 not found
+2023-04-03 13:11:17 ERROR UserController:97 - Error getting information from id: 404 NOT_FOUND "User with this id: 1 not found"
+2023-04-03 13:11:17 WARN  UserController:118 - Age entered incorrectly: 150
+2023-04-03 13:11:17 ERROR UserController:137 - Error getting information by filter: 400 BAD_REQUEST "Age entered incorrectly: 150"
+2023-04-03 13:11:17 WARN  UserController:110 - Invalid name characters: J0hn
+2023-04-03 13:11:17 ERROR UserController:137 - Error getting information by filter: 400 BAD_REQUEST "Invalid name characters: J0hn"
+2023-04-03 13:11:17 INFO  UserController:175 - New user created with id: 1
+2023-04-03 13:11:17 WARN  UserController:75 - No users found in the Data Base
+2023-04-03 13:11:17 ERROR UserController:81 - Error getting information by user count: 404 NOT_FOUND "Users not found"
+2023-04-03 13:11:17 WARN  UserController:164 - Invalid email characters: john@!gmail.com
+2023-04-03 13:11:17 ERROR UserController:178 - Error adding information: 400 BAD_REQUEST "Invalid email characters: john@!gmail.com"
+2023-04-03 13:11:17 WARN  UserController:169 - Invalid phone number characters: 0977035432
+2023-04-03 13:11:17 ERROR UserController:178 - Error adding information: 400 BAD_REQUEST "Invalid phone number characters: 0977035432"
+2023-04-03 13:11:18 INFO  UserController:58 - All users retrieved from the database.
+2023-04-03 13:11:18 WARN  UserController:55 - No users found in Data Base
+2023-04-03 13:11:18 ERROR UserController:64 - Error getting information from data base: 404 NOT_FOUND "Users not found"
+2023-04-03 13:11:18 INFO  UserController:38 - All users retrieved from the database.
+2023-04-03 13:11:18 WARN  UserController:35 - No users found in the Data Base
+2023-04-03 13:11:18 ERROR UserController:44 - Error getting all user: 404 NOT_FOUND "Users not found"
+2023-04-03 13:11:18 INFO  UserController:78 - Number of users in the database: 5
+2023-04-03 13:11:18 WARN  UserController:147 - Invalid name characters: John123
+2023-04-03 13:11:18 ERROR UserController:178 - Error adding information: 400 BAD_REQUEST "Invalid name characters: John123"
+2023-04-03 13:11:18 WARN  UserController:158 - Age entered incorrectly: 150
+2023-04-03 13:11:18 ERROR UserController:178 - Error adding information: 400 BAD_REQUEST "Age entered incorrectly: 150"
+2023-04-03 13:11:18 INFO  UserController:94 - Getting user with id: 1
+2023-04-03 13:11:18 INFO  UserController:130 - Getting user by filter: 
+Name: John age: 25 email: null phone: null
+2023-04-03 13:11:18 WARN  UserController:122 - Invalid email characters: john@!gmail.com
+2023-04-03 13:11:18 ERROR UserController:137 - Error getting information by filter: 400 BAD_REQUEST "Invalid email characters: john@!gmail.com"
+2023-04-03 13:11:18 WARN  UserController:126 - Invalid phone number characters: 380977035432
+2023-04-03 13:11:18 ERROR UserController:137 - Error getting information by filter: 400 BAD_REQUEST "Invalid phone number characters: 380977035432"
+2023-04-03 13:23:53 INFO  UserController:193 - User with id: 1 updated
+2023-04-03 13:30:37 WARN  UserController:189 - User with this id for update: 1 not found
+2023-04-03 13:30:37 ERROR UserController:197 - Error updating user information: 404 NOT_FOUND "User with this id for update: 1 not found"
+2023-04-03 13:37:42 INFO  UserController:216 - User with id: 1 was successfully deleted
+2023-04-03 13:40:43 ERROR UserController:212 - User with id1 not found
+2023-04-03 13:43:11 ERROR UserController:212 - User with id1 not found
+2023-04-03 13:44:00 ERROR UserController:212 - User with id1 not found
+2023-04-03 13:47:03 ERROR UserController:212 - User with id2 not found
+2023-04-03 13:59:25 ERROR UserController:212 - User with id1 not found
+2023-04-03 14:01:52 ERROR UserController:207 - Error deleting user with id: null
+2023-04-03 14:02:07 WARN  UserController:91 - User with this id: 1 not found
+2023-04-03 14:02:07 ERROR UserController:97 - Error getting information from id: 404 NOT_FOUND "User with this id: 1 not found"
+2023-04-03 14:02:07 WARN  UserController:118 - Age entered incorrectly: 150
+2023-04-03 14:02:07 ERROR UserController:137 - Error getting information by filter: 400 BAD_REQUEST "Age entered incorrectly: 150"
+2023-04-03 14:02:07 INFO  UserController:216 - User with id: 1 was successfully deleted
+2023-04-03 14:02:07 WARN  UserController:110 - Invalid name characters: J0hn
+2023-04-03 14:02:07 ERROR UserController:137 - Error getting information by filter: 400 BAD_REQUEST "Invalid name characters: J0hn"
+2023-04-03 14:02:07 INFO  UserController:175 - New user created with id: 1
+2023-04-03 14:02:07 WARN  UserController:75 - No users found in the Data Base
+2023-04-03 14:02:07 ERROR UserController:81 - Error getting information by user count: 404 NOT_FOUND "Users not found"
+2023-04-03 14:02:07 INFO  UserController:194 - User with id: 1 updated
+2023-04-03 14:02:07 WARN  UserController:189 - User with this id for update: 1 not found
+2023-04-03 14:02:07 ERROR UserController:197 - Error updating user information: 404 NOT_FOUND "User with this id for update: 1 not found"
+2023-04-03 14:02:07 WARN  UserController:164 - Invalid email characters: john@!gmail.com
+2023-04-03 14:02:07 ERROR UserController:178 - Error adding information: 400 BAD_REQUEST "Invalid email characters: john@!gmail.com"
+2023-04-03 14:02:07 WARN  UserController:169 - Invalid phone number characters: 0977035432
+2023-04-03 14:02:07 ERROR UserController:178 - Error adding information: 400 BAD_REQUEST "Invalid phone number characters: 0977035432"
+2023-04-03 14:02:07 INFO  UserController:58 - All users retrieved from the database.
+2023-04-03 14:02:07 WARN  UserController:55 - No users found in Data Base
+2023-04-03 14:02:07 ERROR UserController:64 - Error getting information from data base: 404 NOT_FOUND "Users not found"
+2023-04-03 14:02:07 INFO  UserController:38 - All users retrieved from the database.
+2023-04-03 14:02:07 WARN  UserController:35 - No users found in the Data Base
+2023-04-03 14:02:07 ERROR UserController:44 - Error getting all user: 404 NOT_FOUND "Users not found"
+2023-04-03 14:02:07 INFO  UserController:78 - Number of users in the database: 5
+2023-04-03 14:02:07 WARN  UserController:147 - Invalid name characters: John123
+2023-04-03 14:02:07 ERROR UserController:178 - Error adding information: 400 BAD_REQUEST "Invalid name characters: John123"
+2023-04-03 14:02:07 ERROR UserController:207 - Error deleting user with id: null
+2023-04-03 14:02:07 WARN  UserController:158 - Age entered incorrectly: 150
+2023-04-03 14:02:07 ERROR UserController:178 - Error adding information: 400 BAD_REQUEST "Age entered incorrectly: 150"
+2023-04-03 14:02:07 INFO  UserController:94 - Getting user with id: 1
+2023-04-03 14:02:07 INFO  UserController:130 - Getting user by filter: 
+Name: John age: 25 email: null phone: null
+2023-04-03 14:02:07 WARN  UserController:122 - Invalid email characters: john@!gmail.com
+2023-04-03 14:02:07 ERROR UserController:137 - Error getting information by filter: 400 BAD_REQUEST "Invalid email characters: john@!gmail.com"
+2023-04-03 14:02:07 WARN  UserController:126 - Invalid phone number characters: 380977035432
+2023-04-03 14:02:07 ERROR UserController:137 - Error getting information by filter: 400 BAD_REQUEST "Invalid phone number characters: 380977035432"
+2023-04-04 12:39:24 WARN  UserController:91 - User with this id: 1 not found
+2023-04-04 12:39:24 ERROR UserController:97 - Error getting information from id: 404 NOT_FOUND "User with this id: 1 not found"
+2023-04-04 12:39:24 WARN  UserController:118 - Age entered incorrectly: 150
+2023-04-04 12:39:24 ERROR UserController:137 - Error getting information by filter: 400 BAD_REQUEST "Age entered incorrectly: 150"
+2023-04-04 12:39:24 INFO  UserController:216 - User with id: 1 was successfully deleted
+2023-04-04 12:39:24 WARN  UserController:110 - Invalid name characters: J0hn
+2023-04-04 12:39:24 ERROR UserController:137 - Error getting information by filter: 400 BAD_REQUEST "Invalid name characters: J0hn"
+2023-04-04 12:39:24 INFO  UserController:175 - New user created with id: 1
+2023-04-04 12:39:24 WARN  UserController:75 - No users found in the Data Base
+2023-04-04 12:39:24 ERROR UserController:81 - Error getting information by user count: 404 NOT_FOUND "Users not found"
+2023-04-04 12:39:24 INFO  UserController:194 - User with id: 1 updated
+2023-04-04 12:39:24 WARN  UserController:189 - User with this id for update: 1 not found
+2023-04-04 12:39:24 ERROR UserController:197 - Error updating user information: 404 NOT_FOUND "User with this id for update: 1 not found"
+2023-04-04 12:39:24 WARN  UserController:164 - Invalid email characters: john@!gmail.com
+2023-04-04 12:39:24 ERROR UserController:178 - Error adding information: 400 BAD_REQUEST "Invalid email characters: john@!gmail.com"
+2023-04-04 12:39:24 WARN  UserController:169 - Invalid phone number characters: 0977035432
+2023-04-04 12:39:24 ERROR UserController:178 - Error adding information: 400 BAD_REQUEST "Invalid phone number characters: 0977035432"
+2023-04-04 12:39:24 INFO  UserController:58 - All users retrieved from the database.
+2023-04-04 12:39:24 WARN  UserController:55 - No users found in Data Base
+2023-04-04 12:39:24 ERROR UserController:64 - Error getting information from data base: 404 NOT_FOUND "Users not found"
+2023-04-04 12:39:24 INFO  UserController:38 - All users retrieved from the database.
+2023-04-04 12:39:24 WARN  UserController:35 - No users found in the Data Base
+2023-04-04 12:39:24 ERROR UserController:44 - Error getting all user: 404 NOT_FOUND "Users not found"
+2023-04-04 12:39:24 INFO  UserController:78 - Number of users in the database: 5
+2023-04-04 12:39:24 WARN  UserController:147 - Invalid name characters: John123
+2023-04-04 12:39:24 ERROR UserController:178 - Error adding information: 400 BAD_REQUEST "Invalid name characters: John123"
+2023-04-04 12:39:24 ERROR UserController:207 - Error deleting user with id: null
+2023-04-04 12:39:24 WARN  UserController:158 - Age entered incorrectly: 150
+2023-04-04 12:39:24 ERROR UserController:178 - Error adding information: 400 BAD_REQUEST "Age entered incorrectly: 150"
+2023-04-04 12:39:24 INFO  UserController:94 - Getting user with id: 1
+2023-04-04 12:39:24 INFO  UserController:130 - Getting user by filter: 
+Name: John age: 25 email: null phone: null
+2023-04-04 12:39:24 WARN  UserController:122 - Invalid email characters: john@!gmail.com
+2023-04-04 12:39:24 ERROR UserController:137 - Error getting information by filter: 400 BAD_REQUEST "Invalid email characters: john@!gmail.com"
+2023-04-04 12:39:24 WARN  UserController:126 - Invalid phone number characters: 380977035432
+2023-04-04 12:39:24 ERROR UserController:137 - Error getting information by filter: 400 BAD_REQUEST "Invalid phone number characters: 380977035432"
+2023-04-04 13:06:43 INFO  UserPassportController:41 - Passport information retrieved from data base
+2023-04-04 13:14:12 WARN  UserPassportController:38 - Passport details not found
+2023-04-04 13:14:12 ERROR UserPassportController:47 - Error retrieving passport information from data base: 404 NOT_FOUND "Passport details not found"
+2023-04-04 13:19:53 INFO  UserPassportController:61 - Getting passport information by passport number: 123456789
+2023-04-04 13:23:01 WARN  UserPassportController:57 - Passport number not found in data base: 123456789
+2023-04-04 13:23:01 ERROR UserPassportController:64 - Error getting passport information by passport number from data base: 404 NOT_FOUND "Passport number not found in data base: 123456789"
+2023-04-04 13:31:16 INFO  UserPassportController:89 - Passport details by nationality retrieved from data base: American
+2023-04-04 13:47:15 WARN  UserPassportController:75 - Passport details by nationality not found: American
+2023-04-04 13:47:15 ERROR UserPassportController:95 - Error getting passport information by nationality from data base: 404 NOT_FOUND "Passport details by nationality not found: American"
+2023-04-04 13:53:12 WARN  UserPassportController:75 - Passport details by nationality not found: American123
+2023-04-04 13:53:12 ERROR UserPassportController:95 - Error getting passport information by nationality from data base: 404 NOT_FOUND "Passport details by nationality not found: American123"
+2023-04-04 13:55:13 WARN  UserPassportController:75 - Passport details by nationality not found: ll
+2023-04-04 13:55:13 ERROR UserPassportController:95 - Error getting passport information by nationality from data base: 404 NOT_FOUND "Passport details by nationality not found: ll"
+2023-04-04 14:25:20 INFO  UserPassportController:113 - Valid passport information retrieved from data base
+2023-04-04 15:20:58 INFO  UserPassportController:113 - Valid passport information retrieved from data base
+2023-04-04 15:23:31 WARN  UserPassportController:110 - Valid passport details not found
+2023-04-04 15:23:31 ERROR UserPassportController:119 - Error getting valid user passport from data base: 404 NOT_FOUND "Valid passport details not found"
+2023-04-04 15:26:02 WARN  UserPassportController:110 - Valid passport details not found
+2023-04-04 15:26:02 ERROR UserPassportController:119 - Error getting valid user passport from data base: 404 NOT_FOUND "Valid passport details not found"
+2023-04-04 15:30:52 INFO  UserPassportController:137 - Expired passport retrieved from data base
+2023-04-04 15:38:30 WARN  UserPassportController:134 - Expired passport details not found
+2023-04-04 15:38:30 ERROR UserPassportController:143 - Error getting expired user passport from database: 404 NOT_FOUND "Expired passport details not found"
+2023-04-04 15:44:31 INFO  UserPassportController:208 - User with passport number: 123456789 updated
+2023-04-04 15:46:00 INFO  UserPassportController:208 - User with passport number: 123456789 updated
+2023-04-04 15:47:41 WARN  UserPassportController:202 - Passport user with this passport number: 123456788 not found
+2023-04-04 15:47:41 ERROR UserPassportController:211 - Error update user passport to data base: 404 NOT_FOUND "Passport user with this passport number: 123456788 not found"
+2023-04-04 15:48:05 INFO  UserPassportController:208 - User with passport number: 123456789 updated
+2023-04-04 15:51:39 INFO  UserPassportController:208 - User with passport number: 123456789 updated
+2023-04-04 15:53:04 INFO  UserPassportController:208 - User with passport number: 123456789 updated
+2023-04-04 15:59:21 WARN  UserPassportController:202 - Passport user with this passport number: 123456789 not found
+2023-04-04 15:59:21 ERROR UserPassportController:211 - Error update user passport to data base: 404 NOT_FOUND "Passport user with this passport number: 123456789 not found"
+2023-04-04 16:04:41 INFO  UserPassportController:230 - User passport with passport number: 123456789 was successfully deleted
+2023-04-04 16:09:44 WARN  UserPassportController:221 - Error deleting user passport with passport number null or passport number less or more 9
+2023-04-04 16:12:18 WARN  UserPassportController:221 - Error deleting user passport with passport number null or passport number less or more 9
+2023-04-04 16:14:24 WARN  UserPassportController:221 - Error deleting user passport with passport number less or more 9
+2023-04-04 16:16:13 WARN  UserPassportController:221 - Error deleting user passport with passport number less or more 9
+2023-04-04 16:17:02 WARN  UserPassportController:221 - Error deleting user passport with passport number less or more 9
+2023-04-04 16:23:24 WARN  UserPassportController:226 - User passport with passport number: 123456789 not found in data base
+2023-04-04 16:23:57 WARN  UserPassportController:226 - User passport with passport number: 123456789 not found in data base
+2023-04-04 16:24:57 ERROR UserPassportController:233 - Error delete user passport from data base: Cannot invoke "java.lang.Integer.toString()" because "passportNumber" is null
+2023-04-04 16:29:25 WARN  UserPassportController:226 - User passport with passport number: 123456789 not found in data base
+2023-04-05 13:07:23 WARN  UserPassportController:168 - Invalid date of birth characters: 15.01.1985
+2023-04-05 13:07:23 ERROR UserPassportController:203 - Error save user passport information to data base: 400 BAD_REQUEST "Invalid date of birth characters: 15.01.1985"
+2023-04-05 13:08:51 WARN  UserPassportController:192 - Passport number more or less than 9 or invalid passport number characters: 123456789
+2023-04-05 13:08:51 ERROR UserPassportController:203 - Error save user passport information to data base: 400 BAD_REQUEST "Passport number more or less than 9 or invalid passport number characters: 123456789"
+2023-04-05 13:10:49 INFO  UserPassportController:200 - New user created with id: 1
+2023-04-05 13:16:22 WARN  UserPassportController:153 - Invalid name characters: John123
+2023-04-05 13:16:22 ERROR UserPassportController:203 - Error save user passport information to data base: 400 BAD_REQUEST "Invalid name characters: John123"
+2023-04-05 13:21:16 WARN  UserPassportController:235 - Error deleting user passport with passport number less or more 9
+2023-04-05 13:21:16 INFO  UserPassportController:200 - New user created with id: 1
+2023-04-05 13:21:16 WARN  UserPassportController:38 - Passport details not found
+2023-04-05 13:21:16 ERROR UserPassportController:47 - Error retrieving passport information from data base: 404 NOT_FOUND "Passport details not found"
+2023-04-05 13:21:16 INFO  UserPassportController:137 - Expired passport retrieved from data base
+2023-04-05 13:21:16 WARN  UserPassportController:75 - Passport details by nationality not found: ll
+2023-04-05 13:21:16 ERROR UserPassportController:95 - Error getting passport information by nationality from data base: 404 NOT_FOUND "Passport details by nationality not found: ll"
+2023-04-05 13:21:16 INFO  UserPassportController:244 - User passport with passport number: 123456789 was successfully deleted
+2023-04-05 13:21:16 WARN  UserPassportController:163 - Gender not specified
+2023-04-05 13:21:16 ERROR UserPassportController:203 - Error save user passport information to data base: 400 BAD_REQUEST "Gender not specified"
+2023-04-05 13:21:16 INFO  UserPassportController:113 - Valid passport information retrieved from data base
+2023-04-05 13:21:16 WARN  UserPassportController:134 - Expired passport details not found
+2023-04-05 13:21:16 ERROR UserPassportController:143 - Error getting expired user passport from database: 404 NOT_FOUND "Expired passport details not found"
+2023-04-05 13:21:16 INFO  UserPassportController:222 - User with passport number: 123456789 updated
+2023-04-05 13:21:16 WARN  UserPassportController:75 - Passport details by nationality not found: American
+2023-04-05 13:21:16 ERROR UserPassportController:95 - Error getting passport information by nationality from data base: 404 NOT_FOUND "Passport details by nationality not found: American"
+2023-04-05 13:21:16 WARN  UserPassportController:57 - Passport number not found in data base: 123456789
+2023-04-05 13:21:16 ERROR UserPassportController:64 - Error getting passport information by passport number from data base: 404 NOT_FOUND "Passport number not found in data base: 123456789"
+2023-04-05 13:21:16 WARN  UserPassportController:163 - Gender not specified
+2023-04-05 13:21:16 ERROR UserPassportController:203 - Error save user passport information to data base: 400 BAD_REQUEST "Gender not specified"
+2023-04-05 13:21:16 WARN  UserPassportController:110 - Valid passport details not found
+2023-04-05 13:21:16 ERROR UserPassportController:119 - Error getting valid user passport from data base: 404 NOT_FOUND "Valid passport details not found"
+2023-04-05 13:21:16 WARN  UserPassportController:216 - Passport user with this passport number: 123456789 not found
+2023-04-05 13:21:16 ERROR UserPassportController:225 - Error update user passport to data base: 404 NOT_FOUND "Passport user with this passport number: 123456789 not found"
+2023-04-05 13:21:16 WARN  UserPassportController:163 - Gender not specified
+2023-04-05 13:21:16 ERROR UserPassportController:203 - Error save user passport information to data base: 400 BAD_REQUEST "Gender not specified"
+2023-04-05 13:21:16 WARN  UserPassportController:163 - Gender not specified
+2023-04-05 13:21:16 ERROR UserPassportController:203 - Error save user passport information to data base: 400 BAD_REQUEST "Gender not specified"
+2023-04-05 13:21:16 WARN  UserPassportController:163 - Gender not specified
+2023-04-05 13:21:16 ERROR UserPassportController:203 - Error save user passport information to data base: 400 BAD_REQUEST "Gender not specified"
+2023-04-05 13:21:16 WARN  UserPassportController:153 - Invalid name characters: John123
+2023-04-05 13:21:16 ERROR UserPassportController:203 - Error save user passport information to data base: 400 BAD_REQUEST "Invalid name characters: John123"
+2023-04-05 13:21:16 WARN  UserPassportController:240 - User passport with passport number: 123456789 not found in data base
+2023-04-05 13:21:16 WARN  UserPassportController:75 - Passport details by nationality not found: American123
+2023-04-05 13:21:16 ERROR UserPassportController:95 - Error getting passport information by nationality from data base: 404 NOT_FOUND "Passport details by nationality not found: American123"
+2023-04-05 13:21:16 INFO  UserPassportController:41 - Passport information retrieved from data base
+2023-04-05 13:21:16 WARN  UserPassportController:163 - Gender not specified
+2023-04-05 13:21:16 ERROR UserPassportController:203 - Error save user passport information to data base: 400 BAD_REQUEST "Gender not specified"
+2023-04-05 13:21:16 WARN  UserPassportController:158 - Invalid surname characters: Ken123
+2023-04-05 13:21:16 ERROR UserPassportController:203 - Error save user passport information to data base: 400 BAD_REQUEST "Invalid surname characters: Ken123"
+2023-04-05 13:21:16 INFO  UserPassportController:61 - Getting passport information by passport number: 123456789
+2023-04-05 13:21:16 INFO  UserPassportController:89 - Passport details by nationality retrieved from data base: American
+2023-04-05 13:23:13 WARN  UserPassportController:235 - Error deleting user passport with passport number less or more 9
+2023-04-05 13:23:13 INFO  UserPassportController:200 - New user created with id: 1
+2023-04-05 13:23:13 WARN  UserPassportController:38 - Passport details not found
+2023-04-05 13:23:13 ERROR UserPassportController:47 - Error retrieving passport information from data base: 404 NOT_FOUND "Passport details not found"
+2023-04-05 13:23:13 INFO  UserPassportController:137 - Expired passport retrieved from data base
+2023-04-05 13:23:13 WARN  UserPassportController:75 - Passport details by nationality not found: ll
+2023-04-05 13:23:13 ERROR UserPassportController:95 - Error getting passport information by nationality from data base: 404 NOT_FOUND "Passport details by nationality not found: ll"
+2023-04-05 13:23:13 INFO  UserPassportController:244 - User passport with passport number: 123456789 was successfully deleted
+2023-04-05 13:23:13 WARN  UserPassportController:163 - Gender not specified
+2023-04-05 13:23:13 ERROR UserPassportController:203 - Error save user passport information to data base: 400 BAD_REQUEST "Gender not specified"
+2023-04-05 13:23:13 INFO  UserPassportController:113 - Valid passport information retrieved from data base
+2023-04-05 13:23:13 WARN  UserPassportController:134 - Expired passport details not found
+2023-04-05 13:23:13 ERROR UserPassportController:143 - Error getting expired user passport from database: 404 NOT_FOUND "Expired passport details not found"
+2023-04-05 13:23:13 INFO  UserPassportController:222 - User with passport number: 123456789 updated
+2023-04-05 13:23:13 WARN  UserPassportController:75 - Passport details by nationality not found: American
+2023-04-05 13:23:13 ERROR UserPassportController:95 - Error getting passport information by nationality from data base: 404 NOT_FOUND "Passport details by nationality not found: American"
+2023-04-05 13:23:13 WARN  UserPassportController:57 - Passport number not found in data base: 123456789
+2023-04-05 13:23:13 ERROR UserPassportController:64 - Error getting passport information by passport number from data base: 404 NOT_FOUND "Passport number not found in data base: 123456789"
+2023-04-05 13:23:13 WARN  UserPassportController:163 - Gender not specified
+2023-04-05 13:23:13 ERROR UserPassportController:203 - Error save user passport information to data base: 400 BAD_REQUEST "Gender not specified"
+2023-04-05 13:23:13 WARN  UserPassportController:110 - Valid passport details not found
+2023-04-05 13:23:13 ERROR UserPassportController:119 - Error getting valid user passport from data base: 404 NOT_FOUND "Valid passport details not found"
+2023-04-05 13:23:13 WARN  UserPassportController:216 - Passport user with this passport number: 123456789 not found
+2023-04-05 13:23:13 ERROR UserPassportController:225 - Error update user passport to data base: 404 NOT_FOUND "Passport user with this passport number: 123456789 not found"
+2023-04-05 13:23:13 WARN  UserPassportController:163 - Gender not specified
+2023-04-05 13:23:13 ERROR UserPassportController:203 - Error save user passport information to data base: 400 BAD_REQUEST "Gender not specified"
+2023-04-05 13:23:13 WARN  UserPassportController:163 - Gender not specified
+2023-04-05 13:23:13 ERROR UserPassportController:203 - Error save user passport information to data base: 400 BAD_REQUEST "Gender not specified"
+2023-04-05 13:23:13 WARN  UserPassportController:163 - Gender not specified
+2023-04-05 13:23:13 ERROR UserPassportController:203 - Error save user passport information to data base: 400 BAD_REQUEST "Gender not specified"
+2023-04-05 13:23:13 WARN  UserPassportController:153 - Invalid name characters: John123
+2023-04-05 13:23:13 ERROR UserPassportController:203 - Error save user passport information to data base: 400 BAD_REQUEST "Invalid name characters: John123"
+2023-04-05 13:23:13 WARN  UserPassportController:240 - User passport with passport number: 123456789 not found in data base
+2023-04-05 13:23:13 WARN  UserPassportController:75 - Passport details by nationality not found: American123
+2023-04-05 13:23:13 ERROR UserPassportController:95 - Error getting passport information by nationality from data base: 404 NOT_FOUND "Passport details by nationality not found: American123"
+2023-04-05 13:23:13 INFO  UserPassportController:41 - Passport information retrieved from data base
+2023-04-05 13:23:13 WARN  UserPassportController:163 - Gender not specified
+2023-04-05 13:23:13 ERROR UserPassportController:203 - Error save user passport information to data base: 400 BAD_REQUEST "Gender not specified"
+2023-04-05 13:23:13 WARN  UserPassportController:158 - Invalid surname characters: Ken123
+2023-04-05 13:23:13 ERROR UserPassportController:203 - Error save user passport information to data base: 400 BAD_REQUEST "Invalid surname characters: Ken123"
+2023-04-05 13:23:13 INFO  UserPassportController:61 - Getting passport information by passport number: 123456789
+2023-04-05 13:23:13 INFO  UserPassportController:89 - Passport details by nationality retrieved from data base: American
+2023-04-05 14:15:29 INFO  UserHouseController:41 - User house information retrieved from data base
+2023-04-05 14:19:28 INFO  UserHouseController:41 - User house information retrieved from data base
+2023-04-05 14:21:10 INFO  UserHouseController:41 - User house information retrieved from data base
+2023-04-05 16:34:51 WARN  UserHouseController:38 - User house details not found
+2023-04-05 16:34:51 ERROR UserHouseController:47 - Error retrieving information from data base: 404 NOT_FOUND "User house details not found"
+2023-04-05 17:06:13 INFO  UserHouseController:74 - Getting information by house number and flat number: 25/12
+2023-04-05 17:15:30 WARN  UserHouseController:60 - House number not found in data base: 25/12
+2023-04-05 17:15:30 ERROR UserHouseController:77 - Error getting information by house number and flat number: 25/12
+2023-04-05 17:17:39 WARN  UserHouseController:60 - House number not found in data base: null/null
+2023-04-05 17:17:39 ERROR UserHouseController:77 - Error getting information by house number and flat number: null/null
+2023-04-05 17:22:18 WARN  UserHouseController:60 - House number not found in data base: -1/-1
+2023-04-05 17:22:18 ERROR UserHouseController:77 - Error getting information by house number and flat number: -1/-1
+2023-04-05 17:26:56 INFO  UserHouseController:96 - User house in this town retrieved from data base: Lissabon
+2023-04-05 17:29:00 WARN  UserHouseController:88 - User House in this town not found in data base: Lissabon
+2023-04-05 17:29:00 ERROR UserHouseController:102 - Error getting information user house by town: Lissabon
+2023-04-05 17:38:34 WARN  UserHouseController:88 - User House in this town not found in data base: Lissabon21
+2023-04-05 17:38:34 ERROR UserHouseController:102 - Error getting information user house by town: Lissabon21
+2023-04-05 17:38:50 WARN  UserHouseController:88 - User House in this town not found in data base: Lissabon
+2023-04-05 17:38:50 ERROR UserHouseController:102 - Error getting information user house by town: Lissabon
+2023-04-05 17:39:37 WARN  UserPassportController:75 - Passport details by nationality not found: American
+2023-04-05 17:39:37 ERROR UserPassportController:95 - Error getting passport information by nationality from data base: 404 NOT_FOUND "Passport details by nationality not found: American"
+2023-04-05 17:40:02 WARN  UserPassportController:75 - Passport details by nationality not found: lll
+2023-04-05 17:40:02 ERROR UserPassportController:95 - Error getting passport information by nationality from data base: 404 NOT_FOUND "Passport details by nationality not found: lll"
+2023-04-05 17:44:18 WARN  UserHouseController:88 - User House in this town not found in data base: Lissabon
+2023-04-05 17:44:18 ERROR UserHouseController:102 - Error getting information user house by town: Lissabon
+2023-04-05 17:44:31 WARN  UserHouseController:88 - User House in this town not found in data base: Lissabon123
+2023-04-05 17:44:31 ERROR UserHouseController:102 - Error getting information user house by town: Lissabon123
+2023-04-05 17:45:33 WARN  UserPassportController:75 - Passport details by nationality not found: American
+2023-04-05 17:45:33 ERROR UserPassportController:95 - Error getting passport information by nationality from data base: 404 NOT_FOUND "Passport details by nationality not found: American"
+2023-04-05 17:45:47 WARN  UserPassportController:75 - Passport details by nationality not found: American123
+2023-04-05 17:45:47 ERROR UserPassportController:95 - Error getting passport information by nationality from data base: 404 NOT_FOUND "Passport details by nationality not found: American123"
+2023-04-05 17:47:26 WARN  UserHouseController:88 - User House in this town not found in data base: Lissabon123
+2023-04-05 17:47:26 ERROR UserHouseController:102 - Error getting information user house by town: Lissabon123
+2023-04-05 17:50:48 WARN  UserHouseController:88 - User House in this town not found in data base: Lissabon123
+2023-04-05 17:50:48 ERROR UserHouseController:102 - Error getting information user house by town: Lissabon123
+2023-04-05 17:51:04 WARN  UserHouseController:88 - User House in this town not found in data base: Lissabon
+2023-04-05 17:51:04 ERROR UserHouseController:102 - Error getting information user house by town: Lissabon
+2023-04-05 17:58:37 INFO  UserHouseController:125 - User house in this country retrieved from data base: PORTUGAL
+2023-04-05 17:59:10 WARN  UserHouseController:116 - Unsupported country requested: USA
+2023-04-05 17:59:10 ERROR UserHouseController:131 - Error getting information user house by country: USA
+2023-04-05 17:59:30 INFO  UserHouseController:125 - User house in this country retrieved from data base: PORTUGAL
+2023-04-05 18:02:16 WARN  UserHouseController:116 - Unsupported country requested: USA
+2023-04-05 18:02:16 ERROR UserHouseController:131 - Error getting information user house by country: USA
+2023-04-05 18:04:02 WARN  UserHouseController:121 - User house in this country not found in data base: POLAND
+2023-04-05 18:04:02 ERROR UserHouseController:131 - Error getting information user house by country: POLAND
+2023-04-05 18:21:59 WARN  UserHouseController:165 - Invalid address name characters: lissabon
+2023-04-05 18:21:59 ERROR UserHouseController:186 - Error save user house to data base: 400 BAD_REQUEST "Invalid address name characters: lissabon"
+2023-04-05 18:22:59 INFO  UserHouseController:183 - New user created with id: 1
+2023-04-05 18:24:17 INFO  UserHouseController:183 - New user created with id: 1
+2023-04-05 18:29:02 WARN  UserHouseController:141 - Invalid user name format: John%
+2023-04-05 18:29:02 ERROR UserHouseController:186 - Error save user house to data base: 400 BAD_REQUEST "Invalid user name format: John%"
+2023-04-05 18:29:16 INFO  UserHouseController:183 - New user created with id: 1
+2023-04-05 18:30:19 WARN  UserHouseController:141 - Invalid user name format: John%
+2023-04-05 18:30:19 ERROR UserHouseController:186 - Error save user house to data base: 400 BAD_REQUEST "Invalid user name format: John%"
+2023-04-05 18:32:10 WARN  UserHouseController:155 - Unsupported country request: USA
+2023-04-05 18:32:10 ERROR UserHouseController:186 - Error save user house to data base: 400 BAD_REQUEST "Unsupported country request: USA"
+2023-04-05 18:32:28 WARN  UserHouseController:155 - Unsupported country request: USA
+2023-04-05 18:32:28 ERROR UserHouseController:186 - Error save user house to data base: 400 BAD_REQUEST "Unsupported country request: USA"
+2023-04-05 18:33:41 WARN  UserHouseController:160 - Invalid town name characters: Lissabon123
+2023-04-05 18:33:41 ERROR UserHouseController:186 - Error save user house to data base: 400 BAD_REQUEST "Invalid town name characters: Lissabon123"
+2023-04-05 18:34:53 WARN  UserHouseController:160 - Invalid town name characters: Lissabon123
+2023-04-05 18:34:53 ERROR UserHouseController:186 - Error save user house to data base: 400 BAD_REQUEST "Invalid town name characters: Lissabon123"
+2023-04-05 18:35:43 WARN  UserHouseController:160 - Invalid town name characters: Lissabon123
+2023-04-05 18:35:43 ERROR UserHouseController:186 - Error save user house to data base: 400 BAD_REQUEST "Invalid town name characters: Lissabon123"
+2023-04-05 18:43:42 INFO  UserHouseController:236 - Updating information with house number and flat number: 25/12
+2023-04-05 18:53:18 WARN  UserHouseController:199 - House number: 25 or flat number: 12 not found in data base
+2023-04-05 18:53:18 WARN  UserHouseController:234 - Error updating user house: 404 NOT_FOUND "House number: 25 or flat number: 12 not found in data base"
+2023-04-05 18:55:38 WARN  UserHouseController:199 - House number: -1 or flat number: -1 not found in data base
+2023-04-05 18:55:38 WARN  UserHouseController:234 - Error updating user house: 404 NOT_FOUND "House number: -1 or flat number: -1 not found in data base"
+2023-04-05 18:57:15 WARN  UserHouseController:199 - House number: 25 or flat number: 12 not found in data base
+2023-04-05 18:57:15 WARN  UserHouseController:234 - Error updating user house: 404 NOT_FOUND "House number: 25 or flat number: 12 not found in data base"
+2023-04-05 18:57:30 WARN  UserHouseController:199 - House number: 25 or flat number: 12 not found in data base
+2023-04-05 18:57:30 WARN  UserHouseController:234 - Error updating user house: 404 NOT_FOUND "House number: 25 or flat number: 12 not found in data base"
+2023-04-05 19:02:40 WARN  UserHouseController:199 - House number: 25 or flat number: 12 not found in data base
+2023-04-05 19:02:40 WARN  UserHouseController:234 - Error updating user house: 404 NOT_FOUND "House number: 25 or flat number: 12 not found in data base"
+2023-04-05 19:07:47 INFO  UserHouseController:257 - User house with house number: 25 and flat number: 12 was successful deleted
+2023-04-06 11:34:32 WARN  UserHouseController:251 - User house with house number: 25 or flat number: 12 is empty
+2023-04-06 11:34:32 ERROR UserHouseController:262 - Error delete user house from data base: 400 BAD_REQUEST "User house with house number: 25 or flat number: 12 is empty"
+2023-04-06 11:34:48 WARN  UserHouseController:244 - House number: -1 or flat number: -1 less then 0
+2023-04-06 11:34:48 ERROR UserHouseController:262 - Error delete user house from data base: 400 BAD_REQUEST "House number: -1 or flat number: -1 less then 0"
+2023-04-06 11:35:28 WARN  UserHouseController:244 - House number: -1 or flat number: -1 less then 0
+2023-04-06 11:35:28 ERROR UserHouseController:262 - Error delete user house from data base: 400 BAD_REQUEST "House number: -1 or flat number: -1 less then 0"
+2023-04-06 11:40:38 WARN  UserHouseController:244 - House number: -1 or flat number: -1 less then 0
+2023-04-06 11:40:38 ERROR UserHouseController:262 - Error delete user house from data base: 400 BAD_REQUEST "House number: -1 or flat number: -1 less then 0"
+2023-04-06 11:41:12 WARN  UserHouseController:244 - House number: -1 or flat number: -1 less then 0
+2023-04-06 11:41:12 ERROR UserHouseController:262 - Error delete user house from data base: 400 BAD_REQUEST "House number: -1 or flat number: -1 less then 0"
+2023-04-06 11:42:07 WARN  UserHouseController:244 - House number: -1 or flat number: -1 less then 0
+2023-04-06 11:42:07 ERROR UserHouseController:262 - Error delete user house from data base: 400 BAD_REQUEST "House number: -1 or flat number: -1 less then 0"
+2023-04-06 11:42:22 WARN  UserHouseController:244 - House number: -1 or flat number: -1 less then 0
+2023-04-06 11:42:22 ERROR UserHouseController:262 - Error delete user house from data base: 400 BAD_REQUEST "House number: -1 or flat number: -1 less then 0"
+2023-04-06 11:46:17 WARN  UserHouseController:251 - User house with house number: 25 or flat number: 12 is empty
+2023-04-06 11:46:17 ERROR UserHouseController:262 - Error delete user house from data base: 400 BAD_REQUEST "User house with house number: 25 or flat number: 12 is empty"
+2023-04-06 11:56:58 WARN  UserHouseController:251 - User house with house number: 1 or flat number: 2 is empty
+2023-04-06 11:56:58 ERROR UserHouseController:262 - Error delete user house from data base: 400 BAD_REQUEST "User house with house number: 1 or flat number: 2 is empty"
+2023-04-06 11:58:01 WARN  UserHouseController:251 - User house with house number: 1 or flat number: 2 is empty
+2023-04-06 11:58:01 ERROR UserHouseController:262 - Error delete user house from data base: 400 BAD_REQUEST "User house with house number: 1 or flat number: 2 is empty"
+2023-04-06 12:11:15 INFO  UserCarController:37 - All information retrieved from data base
+2023-04-06 12:14:21 WARN  UserCarController:34 - No user car information is empty
+2023-04-06 12:14:21 ERROR UserCarController:43 - Error get all information from data base
+2023-04-06 12:42:55 WARN  UserCarController:54 - No user car information is empty
+2023-04-06 12:42:55 ERROR UserCarController:65 - Error getting information by vin code: 
+2023-04-06 12:44:01 WARN  UserCarController:59 - VIN code contains invalid characters
+2023-04-06 12:44:01 ERROR UserCarController:65 - Error getting information by vin code: LM7657689723223@
+2023-04-06 14:23:29 WARN  UserCarController:75 - User car information with this graduation year: 2000 not found
+2023-04-06 14:23:29 ERROR UserCarController:86 - Error getting user car information by graduation year
+2023-04-06 14:25:22 WARN  UserCarController:75 - User car information with this graduation year: 20000 not found
+2023-04-06 14:25:22 ERROR UserCarController:86 - Error getting user car information by graduation year
+2023-04-06 17:56:04 WARN  UserCarController:96 - User car information by name and email is empty
+2023-04-06 17:56:04 ERROR UserCarController:114 - Error getting information by user name and email: 400 BAD_REQUEST "User car information by name and email is empty"
+2023-04-06 17:58:50 WARN  UserCarController:96 - User car information by name and email is empty
+2023-04-06 17:58:50 ERROR UserCarController:114 - Error getting information by user name and email: 400 BAD_REQUEST "User car information by name and email is empty"
+2023-04-06 18:14:48 INFO  UserCarController:194 - User car with VIN code: LM7657689723223 created
+2023-04-06 18:23:29 WARN  UserCarController:153 - Invalid characters in user name: John@
+2023-04-06 18:23:29 ERROR UserCarController:184 - Error creating user car: 400 BAD_REQUEST "Invalid characters in user name: John@"
+2023-04-06 18:37:13 INFO  UserCarController:229 - Updating information with VIN Code: LM7657689723223
+2023-04-06 18:40:44 INFO  UserCarController:229 - Updating information with VIN Code: LM7657689723223
+2023-04-06 18:45:12 INFO  UserCarController:229 - Updating information with VIN Code: LM7657689723223
+2023-04-10 17:08:24 INFO  UserCarController:229 - Updating information with VIN Code: LM7657689723223
+2023-04-10 17:10:12 INFO  UserCarController:229 - Updating information with VIN Code: LM7657689723223
+2023-04-10 17:10:40 INFO  UserCarController:229 - Updating information with VIN Code: LM7657689723223
+2023-04-10 17:10:58 WARN  UserCarController:195 - VIN code contains invalid characters: LM7657689723223@
+2023-04-10 17:10:58 ERROR UserCarController:232 - Error updating user car information: 400 BAD_REQUEST "VIN code contains invalid characters: LM7657689723223@"
+2023-04-10 19:33:45 INFO  UserCarController:229 - Updating information with VIN Code: LM7657689723223
+2023-04-10 19:38:59 WARN  UserCarController:218 - Invalid characters in model car: Corolla@
+2023-04-10 19:38:59 ERROR UserCarController:232 - Error updating user car information: 400 BAD_REQUEST "Invalid characters in model car: Corolla@"
+2023-04-10 19:46:15 INFO  UserCarController:248 - User car with VIN Code: LM7657689723223 successful deleted
+2023-04-10 19:49:03 WARN  UserCarController:242 - VIN code contains invalid characters: LM7657689723223@
+2023-04-10 19:49:03 ERROR UserCarController:251 - Error deleting user car information: 400 BAD_REQUEST "VIN code contains invalid characters: LM7657689723223@"
